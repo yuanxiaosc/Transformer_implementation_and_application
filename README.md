@@ -1,5 +1,19 @@
 # Transformer_implementation_and_application
 
++ 理解Transformer原理 [Attention is All You Need](https://yuanxiaosc.github.io/2018/11/06/Attention_is_All_You_Need/)
++ [Transformer 代码实现及应用](https://yuanxiaosc.github.io/2019/06/29/Transformer代码实现/)
+
+## 使用方法
+python 3.6
+tensorflow 2
+tensorflow-datasets
+
+
+```
+python train_translation_model.py
+python inference_translation_model.py
+``` 
+
 ## Scaled dot product attention
 
 <img src="https://www.tensorflow.org/images/tutorials/transformer/scaled_attention.png" width="500" alt="scaled_dot_product_attention">
